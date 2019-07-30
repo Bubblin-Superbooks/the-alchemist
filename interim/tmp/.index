@@ -1,0 +1,22 @@
+{
+  "0": "<li><a class = \"page\" href=\"9\">Introduction</a> <span class=\"flex\">9</span> </li>",
+  "1": "<li><a class = \"page\" href=\"63\">Dedication:</a> <span class=\"flex\">63</span> </li>",
+  "2": "<li><a class = \"page\" href=\"65\">To The Reader.</a> <span class=\"flex\">65</span> </li>",
+  "3": "<li><a class = \"page\" href=\"68\">Dramatis Personae.</a> <span class=\"flex\">68</span> </li>",
+  "4": "<li><a class = \"page\" href=\"70\">Scene, (London).</a> <span class=\"flex\">70</span> </li>",
+  "5": "<li><a class = \"page\" href=\"72\">Prologue.</a> <span class=\"flex\">72</span> </li>",
+  "6": "<li><a class = \"page\" href=\"74\">Act 1. Scene 1.1.</a> <span class=\"flex\">74</span> </li>",
+  "7": "<li><a class = \"page\" href=\"110\">Act 2. Scene 2.1.</a> <span class=\"flex\">110</span> </li>",
+  "8": "<li><a class = \"page\" href=\"160\">Act 3. Scene 3.1.</a> <span class=\"flex\">160</span> </li>",
+  "9": "<li><a class = \"page\" href=\"164\">Scene 3.2.</a> <span class=\"flex\">164</span> </li>",
+  "10": "<li><a class = \"page\" href=\"196\">Act 4. Scene 4.1.</a> <span class=\"flex\">196</span> </li>",
+  "11": "<li><a class = \"page\" href=\"222\">Scene 4.2.</a> <span class=\"flex\">222</span> </li>",
+  "12": "<li><a class = \"page\" href=\"230\">Scene 4.3.</a> <span class=\"flex\">230</span> </li>",
+  "13": "<li><a class = \"page\" href=\"240\">Scene 4.4.</a> <span class=\"flex\">240</span> </li>",
+  "14": "<li><a class = \"page\" href=\"255\">Act 5. Scene 5.1.</a> <span class=\"flex\">255</span> </li>",
+  "15": "<li><a class = \"page\" href=\"272\">Scene 5.2.</a> <span class=\"flex\">272</span> </li>",
+  "16": "<li><a class = \"page\" href=\"285\">Scene 5.3.</a> <span class=\"flex\">285</span> </li>",
+  "17": "<li><a class = \"page\" href=\"298\">Glossary</a> <span class=\"flex\">298</span> </li>",
+  "18": "<li><a class = \"page\" href=\"378\">Particular, Individual Person.</a> <span class=\"flex\">378</span> </li>",
+  "19": "<li><a class = \"page\" href=\"424\">The End</a> <span class=\"flex\">424</span> </li>"
+}
